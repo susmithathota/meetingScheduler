@@ -1,5 +1,5 @@
 # Appointment Scheduler
-Chat Bot to schedule a Doctor Appointment.
+Chat Bot to schedule a Doctor Appointment using Microsoft Bot Framework and LUIS
 
 1.When the user starts conversation, he/she is prompted to say their name
 
