@@ -1,6 +1,8 @@
 # Appointment Scheduler
 Chat Bot to schedule a Doctor Appointment using Microsoft Bot Framework and LUIS
 
+The following conversation shows a bot that schedules doctor appointment.The bot understands the user’s intent through LUIS, provides doctor options and requests time of appointment.
+
 1.When the user starts conversation, he/she is prompted to say their name
 
 To schedule successfully, the following two steps are required.
